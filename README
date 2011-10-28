@@ -1,3 +1,3 @@
 This Project is aimed at building my own URL shortening service using :
 1) Redis
-2) Python
+2) Tornado Web Framework
